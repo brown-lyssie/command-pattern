@@ -4,6 +4,6 @@ public class Cook {
         System.out.println("Cook is making a burger");
     }
     public void makeMilkshake() {
-        System.out.println("Cook is making a burger");
+        System.out.println("Cook is making a milkshake");
     }
 }
